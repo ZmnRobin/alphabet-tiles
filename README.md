@@ -1,13 +1,17 @@
-# alphabet-tiles
+# Alphabet-tiles
+
+![Alphabet-tiles](./photo.png?raw=true "Alphabet-tiles")
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-# clone the git repo by using following command :
+# First clone the git repo:
 https://github.com/ZmnRobin/alphabet-tiles.git
+
 # Then go the the "alphabet-tiles" directory and open terminal and run the following command : 
+
 # first :
 npm install
 # then : 
